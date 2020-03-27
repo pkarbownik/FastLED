@@ -1,5 +1,7 @@
 #pragma once
 
+#include "esp32-hal-gpio.h"
+
 #ifndef ESP32
 #define ESP32
 #endif
